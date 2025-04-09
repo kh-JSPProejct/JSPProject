@@ -7,6 +7,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.Properties;
 
+// 미현 : 주석 쌸라쌸라
 public class JDBCTemplate {
 	// 필드
 	private static Connection conn = null;
