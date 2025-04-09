@@ -8,5 +8,7 @@
 </head>
 <body>
 	<h1>메인페이지</h1>
+	
+	<pre>안녕? 미현이야</pre>
 </body>
 </html>
